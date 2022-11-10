@@ -1,17 +1,7 @@
 {
   "stable": {
-    "current_version": 8930000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/QP.Gallery.8.12.apk",
-    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
-  },
-  "beta": {
-    "current_version": 8960000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β3.apk",
-    "changelog": "- (NEW) Support for android TV (WIP)\n- (FIX) Built-in editor crash wen open in another app\n- (INT) Small fixes"
-  },
-  "alternative": {
-    "current_version": 8930000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/8.12.Alternative.apk",
+    "current_version": 965000000,
+    "download_url": "https://github.com/PatrickAlex2019/QuickPic-Gallery/releases/download/9.6.5/QuickPic_V9.6.5.apk",
     "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   }
 }
